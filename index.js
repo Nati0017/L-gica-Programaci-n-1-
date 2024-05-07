@@ -11,7 +11,7 @@ if (num1 === num2 && num2 === num3) {
 } else {
 
     let mayor, centro, menor;
-    if (num1 >= num2 && num1 >= num3) {
+    if (num1 >= num2 && num1 >= num3) {}
         mayor = num1;
         centro = Math.max(num2, num3);
         menor = Math.min(num2, num3);
