@@ -27,4 +27,5 @@ if (num1 === num2 && num2 === num3) {
 
     console.log(`Ordenados de mayor a menor: ${mayor}, ${centro}, ${menor}.`);
     console.log(`Ordenados de menor a mayor: ${menor}, ${centro}, ${mayor}.`);
+    console.log(`Centro: ${centro}.`);
 }
